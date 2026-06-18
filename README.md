@@ -1,7 +1,7 @@
 <p align="center">
   <img width="1365" height="768" alt="whatareyoulookingforhere" src="https://github.com/user-attachments/assets/a6acc6f6-57b1-4ab1-8143-d7595f65f8a0" />
 </p>
-
+<h1 align="center">Java Developer, R&D Manager & Administrator</h1>
 <div align="center">
   Hey! I'm Kayera and I'm working for <a href="https://foudre.uk/">Foudre Industries</a> as R&D Manager and Administrator for 2 years. And I'm working for <a href="https://baso.network/">Baso Network</a> since the beginning of 2026. Also I'm interested with <a href="https://en.wikipedia.org/wiki/Astrophysics">Astrophysics</a> & <a href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a> for 8 years.
 </div>
