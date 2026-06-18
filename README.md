@@ -40,11 +40,11 @@
 <p align="left">
     <a href="https://github.com/kayerajava?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/kayerajava" target="_blank"><img alt="kayerajava" src="https://badges.pufler.dev/visits/kayerajava/kayerajava?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/kayerajava" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/kayerajava/kayerajava?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/kayerajava" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/kayerajava/kayerajava?label=hits&style=flat-square"></a>
     <a href="https://github.com/kayerajava/kayerajava" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kayerajava/kayerajava?label=profile%20updated&style=flat-square"></a>
 </p>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kayerajava&theme=tokyonight&margin-w=15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=kayerajava&theme=tokyonight&margin-w=15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kayerajava&theme=tokyonight" alt="GitHub Streak" /></a>
