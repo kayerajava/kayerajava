@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="422" alt="Kayera" src="https://github.com/user-attachments/assets/f6a7a67f-d382-40ec-9762-1cd7748460b3" />
+  <img width="1365" height="768" alt="whatareyoulookingforhere" src="https://github.com/user-attachments/assets/a6acc6f6-57b1-4ab1-8143-d7595f65f8a0" />
 </p>
 
 <div align="center">
