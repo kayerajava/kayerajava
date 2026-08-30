@@ -5,7 +5,6 @@
 <div align="center">
   Hey! I'm Kayera and I'm working for <a href="https://foudre.uk/">Foudre Industries</a> as R&D Manager and Administrator for 2 years. And I'm working for <a href="https://baso.network/">Baso Network</a> since the beginning of 2026. Also I'm interested with <a href="https://en.wikipedia.org/wiki/Astrophysics">Astrophysics</a> & <a href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a> for 8 years.
 </div>
-https://external-media.spacehey.net/media/sxMtBbzd_edqG2_lUNbvSNG3_GWw4OEmeTKorPW-IpzE=/https://i.ibb.co/zQW3B3x/26star.gif
 ## Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/Kayera/" target="_blank">
