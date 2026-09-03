@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1365" height="768" alt="whatareyoulookingforhere" src="https://github.com/user-attachments/assets/a6acc6f6-57b1-4ab1-8143-d7595f65f8a0" />
+  <img width="1409" height="752" alt="kayerabanner353" src="https://github.com/user-attachments/assets/6bcef208-fb71-47d7-a807-055f16ab1598" />
 </p>
 <h1 align="center">Java Developer, R&D Manager & Administrator</h1>
 <div align="center">
