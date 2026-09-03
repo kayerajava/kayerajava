@@ -1,10 +1,11 @@
 <p align="center">
-  <img width="1409" height="752" alt="kayerabanner353" src="https://github.com/user-attachments/assets/6bcef208-fb71-47d7-a807-055f16ab1598" />
+  <img width="1424" height="750" alt="kayerabanner2353" src="https://github.com/user-attachments/assets/e556a251-a7eb-4f7f-b3d8-eb315efcc66d" />
 </p>
-<h1 align="center">Java Developer, R&D Manager & Administrator</h1>
+<h1 align="center">Hello! It's Kayera</h1>
 <div align="center">
   Hey! I'm Kayera and I'm working for <a href="https://foudre.uk/">Foudre Industries</a> as R&D Manager and Administrator for 2 years. And I'm working for <a href="https://baso.network/">Baso Network</a> since the beginning of 2026. Also I'm interested with <a href="https://en.wikipedia.org/wiki/Astrophysics">Astrophysics</a> & <a href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a> for 8 years.
 </div>
+
 ## Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/Kayera/" target="_blank">
