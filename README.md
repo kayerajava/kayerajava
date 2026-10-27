@@ -2,7 +2,7 @@
   <img width="1264" height="843" alt="kayerabanner2222" src="https://github.com/user-attachments/assets/e272f35b-ea37-429a-9b88-1194a3e3d3e0" />
 </p>
 
-<h1 align="center">https://kayera.tech/</h1>
+<h1 align="center">Learn more @ https://kayera.tech/</h1>
 <div align="center">
   Hey! I'm Kayera and I'm working for <a href="https://foudre.uk/">Foudre Industries</a> as R&D Manager and Administrator for 2 years. And I'm working for <a href="https://baso.network/">Baso Network</a> since the beginning of 2026. Also I'm interested with <a href="https://en.wikipedia.org/wiki/Astrophysics">Astrophysics</a> & <a href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a> for 8 years.
 </div>
