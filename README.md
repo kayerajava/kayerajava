@@ -49,45 +49,4 @@
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kayerajava&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
 </p>
-
-## References, Contributes & Former Networks
-```tsx
-const references = [
-  {
-    name: "Tarık Pasha",
-    link: "https://www.youtube.com/@tarikpasha"
-  },
-  {
-    name: "Baso Network",
-    link: "https://baso.network/"
-  },
-  {
-    name: "YusufTe",
-    link: "https://www.youtube.com/@YusufTe"
-  },
-  {
-    name: "AlfaCypher",
-    link: "https://www.youtube.com/@AlfaCypher"
-  },
-  {
-    name: "Hoplite",
-    link: "https://hoplite.gg/"
-  },
-  {
-    name: "Grim Anticheat",
-    link: "https://github.com/GrimAnticheat/Grim"
-  },
-  {
-    name: "ViaFabricPlus",
-    link: "https://github.com/ViaVersion/ViaFabricPlus"
-  },
-  {
-    name: "Neptune",
-    link: "https://github.com/Solara-Development/Neptune"
-  },
-  {
-    name: "Foudre Industries",
-    link: "https://foudre.uk/"
-  }
-];
 ```
