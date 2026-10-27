@@ -47,12 +47,6 @@
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=kayerajava&theme=tokyonight&margin-w=15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kayerajava&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kayerajava&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kayerajava&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
 </p>
 
